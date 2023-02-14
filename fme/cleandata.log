@@ -1,0 +1,215 @@
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|Current FME version: FME 2022.2.2.0 (20230106 - Build 22782 - WIN64)
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME_HOME is 'D:\Program Files\FME\'
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Home Edition (node locked-crc)
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|Serial Number: GQ4YXMT20OO60A17TS3C
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|Temporary License: 359 days left.
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|Machine host name is: DESKTOP-84NR0V8
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|OS Locale Name     : en_NL
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|OS Locale Encoding : windows-1252
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|Process Encoding   : UTF-8
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME API version: '4.0 20220615'
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\Users\luczw\Projects\wandrer-min-max\fme/'
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'cleandata.fmw'
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2022.2.2.0'
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|Operating System: Microsoft Windows 10 64-bit  (Build 19044)
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Platform: WIN64
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|System Status: 31.37 GB of disk space available in the FME temporary folder (C:\Users\luczw\AppData\Local\Temp\wbrun_1675864585576_16096\fmetmp_11)
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|System Status: 11.92 GB of physical memory available
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|System Status: 47.68 GB of virtual memory available
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|START - ProcessID: 18568, peak process memory usage: 46648 kB, current process memory usage: 46648 kB
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `D:\Program Files\FME\fme.exe' `C:/Users/luczw/Projects/wandrer-min-max/fme\wb-xlate-1675878258290_16096' `LOG_STANDARDOUT' `YES' `LOG_TIMINGS' `YES' `LogCountServerName' `51936' `LOG_STANDARDOUT' `No' `WORKBENCH_LOG_SERVER' `51923'
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\luczw\AppData\Roaming\Safe Software\FME\'
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|Shared folders for formats are : D:\Program Files\FME\datasources;C:\Users\luczw\OneDrive\Documenten\FME\Formats
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|Shared folders for transformers are : C:\Users\luczw\AppData\Roaming\Safe Software\FME\Packages\22782-win64\transformers;D:\Program Files\FME\transformers
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\luczw\OneDrive\Documenten\FME\CoordinateSystems
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\luczw\OneDrive\Documenten\FME\CoordinateSystemExceptions
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\luczw\OneDrive\Documenten\FME\CoordinateSystemGridOverrides
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\luczw\OneDrive\Documenten\FME\CsmapTransformationExceptions
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\luczw\OneDrive\Documenten\FME\TransformerCategories
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Configuration: Current working folder is `C:\Users\luczw\Projects\wandrer-min-max\fme'
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\luczw\AppData\Local\Temp\wbrun_1675864585576_16096\fmetmp_11', set from environment variable `FME_TEMP'
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Configuration: Cache folder is 'C:\Users\luczw\AppData\Local\Temp'
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Configuration: FME_HOME is `D:\Program Files\FME\'
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Configuration: Start freeing memory when the process exceeds 35.76 GB
+2023-02-08 18:44:43|   0.0|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 26.82 GB
+2023-02-08 18:44:45|   0.0|  0.0|INFORM|Creating writer for format: 
+2023-02-08 18:44:45|   0.1|  0.1|INFORM|Creating reader for format: 
+2023-02-08 18:44:45|   0.1|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2023-02-08 18:44:45|   0.1|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding OSM Reader with keyword OSM_2
+2023-02-08 18:44:45|   0.1|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding GEOJSON Reader with keyword GEOJSON_2
+2023-02-08 18:44:45|   0.1|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2023-02-08 18:44:45|   0.1|  0.0|INFORM|Creating reader for format: OpenStreetMap (OSM) XML
+2023-02-08 18:44:45|   0.2|  0.1|INFORM|Trying to find a DYNAMIC plugin for reader named `OSM'
+2023-02-08 18:44:45|   0.2|  0.0|INFORM|Loaded module 'OSM' from file 'D:\Program Files\FME\plugins/OSM.dll'
+2023-02-08 18:44:45|   0.2|  0.0|INFORM|FME API version of module 'OSM' matches current internal version (4.0 20220615)
+2023-02-08 18:44:46|   0.2|  0.0|INFORM|Reading the map features configuration file: 'fme_map_features_config.xml'
+2023-02-08 18:44:46|   0.3|  0.1|INFORM|Opening the OSM reader with source dataset 'C:\Users\luczw\Projects\wandrer-min-max\fme\data\gestel.osm'
+2023-02-08 18:44:46|   0.4|  0.1|INFORM|Creating reader for format: XML (Extensible Markup Language)
+2023-02-08 18:44:46|   0.5|  0.1|INFORM|Trying to find a DYNAMIC plugin for reader named `XML'
+2023-02-08 18:44:46|   0.5|  0.0|INFORM|Loaded module 'XML' from file 'D:\Program Files\FME\plugins/XML.dll'
+2023-02-08 18:44:46|   0.5|  0.0|INFORM|FME API version of module 'XML' matches current internal version (4.0 20220615)
+2023-02-08 18:44:46|   0.5|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2023-02-08 18:44:46|   0.5|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2023-02-08 18:44:46|   0.5|  0.0|INFORM|Loaded module 'LogCount_func' from file 'D:\Program Files\FME\plugins/LogCount_func.dll'
+2023-02-08 18:44:46|   0.5|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (4.0 20220615)
+2023-02-08 18:44:46|   0.5|  0.0|INFORM|Loaded module 'ClipperFactory' from file 'D:\Program Files\FME\plugins/ClipperFactory.dll'
+2023-02-08 18:44:46|   0.5|  0.0|INFORM|FME API version of module 'ClipperFactory' matches current internal version (4.0 20220615)
+2023-02-08 18:44:46|   0.5|  0.0|INFORM|FME Configuration: Source coordinate system for reader OSM_2[OSM] set to `LL84' as read from input data
+2023-02-08 18:44:46|   0.5|  0.0|INFORM|Coordinate System `LL84' parameters: CS_NAME=`LL84' DESC_NM=`WGS84 datum, Latitude-Longitude; Degrees' DT_NAME=`WGS84' EPSG_QD=`-1' GROUP=`LL' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`182' MIN_LAT=`-90' MIN_LNG=`-182' PROJ=`LL' QUAD=`1' SCL_RED=`1' SOURCE=`Mentor Software' UNIT=`DEGREE'
+2023-02-08 18:44:46|   0.7|  0.2|INFORM|Reading source feature # 2500
+2023-02-08 18:44:47|   0.8|  0.1|INFORM|Reading source feature # 5000
+2023-02-08 18:44:47|   0.9|  0.1|INFORM|Reading source feature # 7500
+2023-02-08 18:44:47|   1.0|  0.1|INFORM|Reading source feature # 10000
+2023-02-08 18:44:47|   1.0|  0.0|INFORM|Reading source feature # 12500
+2023-02-08 18:44:47|   1.1|  0.1|INFORM|Reading source feature # 15000
+2023-02-08 18:44:47|   1.2|  0.1|INFORM|Reading source feature # 17500
+2023-02-08 18:44:47|   1.3|  0.1|INFORM|Reading source feature # 20000
+2023-02-08 18:44:47|   1.4|  0.1|INFORM|Reading source feature # 22500
+2023-02-08 18:44:47|   1.5|  0.1|INFORM|Reading source feature # 25000
+2023-02-08 18:44:47|   1.6|  0.1|INFORM|Reading source feature # 27500
+2023-02-08 18:44:48|   1.7|  0.1|INFORM|Reading source feature # 30000
+2023-02-08 18:44:48|   1.8|  0.1|INFORM|Reading source feature # 32500
+2023-02-08 18:44:48|   1.9|  0.1|INFORM|Reading source feature # 35000
+2023-02-08 18:44:48|   2.0|  0.1|INFORM|Reading source feature # 37500
+2023-02-08 18:44:48|   2.1|  0.1|INFORM|Reading source feature # 40000
+2023-02-08 18:44:48|   2.2|  0.1|INFORM|Reading source feature # 42500
+2023-02-08 18:44:48|   2.4|  0.2|INFORM|Reading source feature # 45000
+2023-02-08 18:44:48|   2.5|  0.1|INFORM|Reading source feature # 47500
+2023-02-08 18:44:48|   2.6|  0.1|INFORM|Reading source feature # 50000
+2023-02-08 18:44:48|   2.7|  0.1|INFORM|Reading source feature # 52500
+2023-02-08 18:44:49|   2.8|  0.1|INFORM|Reading source feature # 55000
+2023-02-08 18:44:49|   2.9|  0.1|INFORM|Reading source feature # 57500
+2023-02-08 18:44:49|   3.0|  0.1|INFORM|Reading source feature # 60000
+2023-02-08 18:44:49|   3.1|  0.1|INFORM|Reading source feature # 62500
+2023-02-08 18:44:49|   3.2|  0.1|INFORM|Reading source feature # 65000
+2023-02-08 18:44:49|   3.3|  0.1|INFORM|Reading source feature # 67500
+2023-02-08 18:44:49|   3.4|  0.1|INFORM|Reading source feature # 70000
+2023-02-08 18:44:49|   3.5|  0.1|INFORM|Reading source feature # 72500
+2023-02-08 18:44:49|   3.6|  0.1|INFORM|Reading source feature # 75000
+2023-02-08 18:44:50|   3.7|  0.1|INFORM|Reading source feature # 77500
+2023-02-08 18:44:50|   3.9|  0.2|INFORM|Reading source feature # 80000
+2023-02-08 18:44:50|   4.0|  0.1|INFORM|Reading source feature # 82500
+2023-02-08 18:44:50|   4.0|  0.0|INFORM|Reading source feature # 85000
+2023-02-08 18:44:50|   4.2|  0.2|INFORM|Reading source feature # 87500
+2023-02-08 18:44:50|   4.3|  0.1|INFORM|Reading source feature # 90000
+2023-02-08 18:44:50|   4.4|  0.1|INFORM|Reading source feature # 92500
+2023-02-08 18:44:50|   4.6|  0.2|INFORM|Reading source feature # 95000
+2023-02-08 18:44:50|   4.7|  0.1|INFORM|Reading source feature # 97500
+2023-02-08 18:44:50|   4.8|  0.1|INFORM|Reading source feature # 100000
+2023-02-08 18:44:51|   4.8|  0.0|INFORM|Reading source feature # 102500
+2023-02-08 18:44:51|   4.9|  0.1|INFORM|Reading source feature # 105000
+2023-02-08 18:44:51|   5.0|  0.1|INFORM|Reading source feature # 107500
+2023-02-08 18:44:51|   5.3|  0.3|INFORM|Reading source feature # 110000
+2023-02-08 18:44:52|   6.0|  0.7|INFORM|Reading source feature # 112500
+2023-02-08 18:44:52|   6.3|  0.3|INFORM|Reading source feature # 115000
+2023-02-08 18:44:52|   6.5|  0.2|INFORM|Reading source feature # 117500
+2023-02-08 18:44:53|   6.7|  0.2|INFORM|Reading source feature # 120000
+2023-02-08 18:44:53|   7.0|  0.3|INFORM|Reading source feature # 122500
+2023-02-08 18:44:53|   7.2|  0.2|INFORM|Reading source feature # 125000
+2023-02-08 18:44:53|   7.7|  0.5|INFORM|Reading source feature # 127500
+2023-02-08 18:44:54|   8.0|  0.3|STATS |OSMPipeline::FillInDefinedAreas (TestFactory): Tested 19588 input feature(s) -- 0 feature(s) passed and 19588 feature(s) failed
+2023-02-08 18:44:54|   8.0|  0.0|STATS |OSMPipeline::OSMFeatureTypeAttrAdder (TeeFactory): Cloned 187 input feature(s) into 187 output feature(s)
+2023-02-08 18:44:54|   8.0|  0.0|STATS |OSMPipeline::relation_multipolygon_filter (TestFactory): Tested 187 input feature(s) -- 38 feature(s) passed and 149 feature(s) failed
+2023-02-08 18:44:54|   8.0|  0.0|STATS |OSMPipeline::relation_route_filter (TestFactory): Tested 149 input feature(s) -- 99 feature(s) passed and 50 feature(s) failed
+2023-02-08 18:44:54|   8.0|  0.0|STATS |OSMPipeline::relation_boundary_filter (TestFactory): Tested 50 input feature(s) -- 8 feature(s) passed and 42 feature(s) failed
+2023-02-08 18:44:54|   8.0|  0.0|STATS |OSMPipeline::relation_restriction_filter (TestFactory): Tested 42 input feature(s) -- 11 feature(s) passed and 31 feature(s) failed
+2023-02-08 18:44:54|   8.0|  0.0|INFORM|Creating reader for format: GeoJSON (Geographic JavaScript Object Notation)
+2023-02-08 18:44:54|   8.0|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `GEOJSON'
+2023-02-08 18:44:54|   8.0|  0.0|INFORM|Loaded module 'GEOJSON' from file 'D:\Program Files\FME\plugins/JSON.dll'
+2023-02-08 18:44:54|   8.0|  0.0|INFORM|FME API version of module 'JSON' matches current internal version (4.0 20220615)
+2023-02-08 18:44:54|   8.0|  0.0|INFORM|Opening the GEOJSON reader with source dataset 'C:\Users\luczw\Projects\wandrer-min-max\fme\data\genderbeemd-small.geojson'
+2023-02-08 18:44:54|   8.0|  0.0|INFORM|FME Configuration: Source coordinate system for reader GEOJSON_2[GEOJSON] set to `LL84' as read from input data
+2023-02-08 18:44:54|   8.0|  0.0|INFORM|Coordinate System `LL84' parameters: CS_NAME=`LL84' DESC_NM=`WGS84 datum, Latitude-Longitude; Degrees' DT_NAME=`WGS84' EPSG_QD=`-1' GROUP=`LL' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`182' MIN_LAT=`-90' MIN_LNG=`-182' PROJ=`LL' QUAD=`1' SCL_RED=`1' SOURCE=`Mentor Software' UNIT=`DEGREE'
+2023-02-08 18:44:54|   8.0|  0.0|INFORM|Closing the GEOJSON reader
+2023-02-08 18:44:54|   8.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Done reading 129646 features from 2 readers
+2023-02-08 18:44:54|   8.0|  0.0|INFORM|Emptying factory pipeline
+2023-02-08 18:44:54|   8.0|  0.0|STATS |Router and Unexpected Input Remover (RoutingFactory): Tested 129646 input feature(s), wrote 129646 output feature(s): 3036 matched merge filters, 3036 were routed to output, 126610 could not be routed.
+2023-02-08 18:44:54|   8.0|  0.0|STATS |Unwanted Router Input Nuker (TeeFactory): Cloned 126610 input feature(s) into 0 output feature(s)
+2023-02-08 18:44:54|   8.0|  0.0|STATS |gestel-cutout_GEOJSON_2 Splitter (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2023-02-08 18:44:54|   8.0|  0.0|STATS |highway_OSM_2 Splitter (TeeFactory): Cloned 3035 input feature(s) into 3035 output feature(s)
+2023-02-08 18:44:54|   8.0|  0.0|STATS |AttributeExposer (TeeFactory): Cloned 3035 input feature(s) into 3035 output feature(s)
+2023-02-08 18:44:54|   8.0|  0.0|STATS |IdentifyRoads_INPUT (TeeFactory): Cloned 3035 input feature(s) into 3035 output feature(s)
+2023-02-08 18:44:54|   8.0|  0.0|STATS |IdentifyRoads (TestFactory): Tested 3035 input feature(s) -- 1996 feature(s) passed and 1039 feature(s) failed
+2023-02-08 18:44:54|   8.0|  0.0|STATS |IdentifyOneway_INPUT (TeeFactory): Cloned 1136 input feature(s) into 1136 output feature(s)
+2023-02-08 18:44:54|   8.0|  0.0|STATS |IdentifyOneway (TestFactory): Tested 1136 input feature(s) -- 209 feature(s) passed and 927 feature(s) failed
+2023-02-08 18:44:54|   8.0|  0.0|INFORM|Intersector_ALL (IntersectionFactory): Intersecting with an automatic tolerance of 1.0286517079999998e-13
+2023-02-08 18:44:54|   8.1|  0.1|WARN  |Intersector_ALL (IntersectionFactory): Intersection collapsed input geometry. The collapsed geometry will by output via the collapsed port
+2023-02-08 18:44:54|   8.4|  0.3|STATS |Intersector_ALL (IntersectionFactory): Intersected 1996 line(s) -- resulting in 2590 segment(s) and 3600 point(s) 
+2023-02-08 18:44:54|   8.4|  0.0|STATS |Intersector_ALL (IntersectionFactory): Processed 1996 input feature(s), resulting in 2590 segment(s) and 6 point(s) output (%4 overlapping segment(s) merged)
+2023-02-08 18:44:54|   8.4|  0.0|INFORM|Clipper (ClipperFactory): Clipping.  Processed 1 candidates so far.
+2023-02-08 18:44:54|   8.5|  0.1|INFORM|Creating writer for format: GeoJSON (Geographic JavaScript Object Notation)
+2023-02-08 18:44:54|   8.5|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `GEOJSON'
+2023-02-08 18:44:54|   8.5|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2023-02-08 18:44:54|   8.5|  0.0|INFORM|Writer `GEOJSON_1' of type `GEOJSON' using group definition keyword `GEOJSON_1_DEF'
+2023-02-08 18:44:54|   8.5|  0.0|INFORM|GeoJSON Writer: All features not in WGS84 will be reprojected to WGS84
+2023-02-08 18:44:54|   8.5|  0.0|INFORM|Opening the GEOJSON writer with destination dataset 'C:\Users\luczw\Projects\wandrer-min-max\data\genderbeemd-small.json'
+2023-02-08 18:44:54|   8.5|  0.0|INFORM|FME Configuration: Destination coordinate system set to input coordinate system `LL84'
+2023-02-08 18:44:55|   8.8|  0.3|INFORM|FME Configuration: Using FME Reprojection Engine
+2023-02-08 18:44:55|   8.9|  0.1|INFORM|Clipper (ClipperFactory): Clipping with an automatic tolerance of 1.0285064073537142e-13
+2023-02-08 18:44:56|  10.3|  1.4|INFORM|... Last line repeated 4 times ...
+2023-02-08 18:44:56|  10.3|  0.0|INFORM|Clipper (ClipperFactory): Clipped 31 additional times with automatic tolerances between 1.0285064073537142e-13 and 1.0285087839999988e-13
+2023-02-08 18:44:56|  10.3|  0.0|STATS |SplitClipped_INPUT (TeeFactory): Cloned 185 input feature(s) into 185 output feature(s)
+2023-02-08 18:44:56|  10.3|  0.0|STATS |SplitClipped (TestFactory): Tested 185 input feature(s) -- 166 feature(s) passed and 19 feature(s) failed
+2023-02-08 18:44:57|  10.4|  0.1|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 6209 input feature(s), wrote 6209 output feature(s): 0 matched merge filters, 6209 were routed to output, 0 could not be routed.
+2023-02-08 18:44:57|  10.4|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2023-02-08 18:44:57|  10.6|  0.2|INFORM|Closing the GEOJSON writer
+2023-02-08 18:44:57|  10.6|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-02-08 18:44:57|  10.6|  0.0|INFORM|Feature output statistics for `GEOJSON' writer using keyword `GEOJSON_1':
+2023-02-08 18:44:57|  10.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-02-08 18:44:57|  10.6|  0.0|STATS |                               Features Written
+2023-02-08 18:44:57|  10.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-02-08 18:44:57|  10.6|  0.0|STATS |highway                                                                   6209
+2023-02-08 18:44:57|  10.6|  0.0|STATS |==============================================================================
+2023-02-08 18:44:57|  10.6|  0.0|STATS |Total Features Written                                                    6209
+2023-02-08 18:44:57|  10.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-02-08 18:44:57|  10.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-02-08 18:44:57|  10.6|  0.0|STATS |                            Features Read Summary
+2023-02-08 18:44:57|  10.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-02-08 18:44:57|  10.6|  0.0|STATS |amenity                                                                   1300
+2023-02-08 18:44:57|  10.6|  0.0|STATS |barrier                                                                     95
+2023-02-08 18:44:57|  10.6|  0.0|STATS |boundary                                                                    13
+2023-02-08 18:44:57|  10.6|  0.0|STATS |building                                                                 14581
+2023-02-08 18:44:57|  10.6|  0.0|STATS |craft                                                                        1
+2023-02-08 18:44:57|  10.6|  0.0|STATS |emergency                                                                    2
+2023-02-08 18:44:57|  10.6|  0.0|STATS |genderbeemd-small                                                            1
+2023-02-08 18:44:57|  10.6|  0.0|STATS |highway                                                                   3035
+2023-02-08 18:44:57|  10.6|  0.0|STATS |landuse                                                                    892
+2023-02-08 18:44:57|  10.6|  0.0|STATS |leisure                                                                     81
+2023-02-08 18:44:57|  10.6|  0.0|STATS |man_made                                                                    39
+2023-02-08 18:44:57|  10.6|  0.0|STATS |natural                                                                    224
+2023-02-08 18:44:57|  10.6|  0.0|STATS |office                                                                      18
+2023-02-08 18:44:57|  10.6|  0.0|STATS |place                                                                        9
+2023-02-08 18:44:57|  10.6|  0.0|STATS |power                                                                        5
+2023-02-08 18:44:57|  10.6|  0.0|STATS |public_transport                                                            56
+2023-02-08 18:44:57|  10.6|  0.0|STATS |route                                                                       97
+2023-02-08 18:44:57|  10.6|  0.0|STATS |shop                                                                        32
+2023-02-08 18:44:57|  10.6|  0.0|STATS |tourism                                                                      5
+2023-02-08 18:44:57|  10.6|  0.0|STATS |unknown                                                                 109080
+2023-02-08 18:44:57|  10.6|  0.0|STATS |waterway                                                                    80
+2023-02-08 18:44:57|  10.6|  0.0|STATS |==============================================================================
+2023-02-08 18:44:57|  10.6|  0.0|STATS |Total Features Read                                                     129646
+2023-02-08 18:44:57|  10.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-02-08 18:44:57|  10.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-02-08 18:44:57|  10.6|  0.0|STATS |                           Features Written Summary
+2023-02-08 18:44:57|  10.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-02-08 18:44:57|  10.6|  0.0|STATS |highway                                                                   6209
+2023-02-08 18:44:57|  10.6|  0.0|STATS |==============================================================================
+2023-02-08 18:44:57|  10.6|  0.0|STATS |Total Features Written                                                    6209
+2023-02-08 18:44:57|  10.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-02-08 18:44:57|  10.6|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2023-02-08 18:44:57|  10.6|  0.0|WARN  |-~                                                                             ~-
+2023-02-08 18:44:57|  10.6|  0.0|WARN  |-~    Feature caches have been recorded at every stage of the translation.     ~-
+2023-02-08 18:44:57|  10.6|  0.0|WARN  |-~                      To inspect the recorded features,                      ~-
+2023-02-08 18:44:57|  10.6|  0.0|WARN  |-~              click the feature cache icons next to the ports.               ~-
+2023-02-08 18:44:57|  10.6|  0.0|WARN  |-~                                                                             ~-
+2023-02-08 18:44:57|  10.6|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2023-02-08 18:44:57|  10.6|  0.0|INFORM|Translation was SUCCESSFUL with 8 warning(s) (6209 feature(s) output)
+2023-02-08 18:44:57|  10.6|  0.0|INFORM|FME Session Duration: 14.7 seconds. (CPU: 9.6s user, 1.0s system)
+2023-02-08 18:44:57|  10.6|  0.0|INFORM|END - ProcessID: 18568, peak process memory usage: 145484 kB, current process memory usage: 108072 kB

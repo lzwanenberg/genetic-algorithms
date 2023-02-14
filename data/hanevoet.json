@@ -1,0 +1,5920 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "highway",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4367449, 51.4160414 ],
+					[ 5.4369916, 51.4160786 ],
+					[ 5.4371131, 51.4157652 ],
+					[ 5.4368669, 51.415728 ]
+				]
+			},
+			"properties" : {
+				"id" : "1115679193",
+				"name" : "Zijpendaal",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4349378, 51.4167257 ],
+					[ 5.434897, 51.4168279 ]
+				]
+			},
+			"properties" : {
+				"id" : "1115679164",
+				"name" : "Radboud",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.438116, 51.4153343 ],
+					[ 5.4383082, 51.4148179 ]
+				]
+			},
+			"properties" : {
+				"id" : "957896629",
+				"name" : "De Klencke",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4314063, 51.4169251 ],
+					[ 5.4313863, 51.4167993 ],
+					[ 5.4313757, 51.4166559 ],
+					[ 5.431364, 51.4163394 ],
+					[ 5.43143, 51.4160281 ],
+					[ 5.4315252, 51.4156592 ],
+					[ 5.4315432, 51.4155893 ],
+					[ 5.4316299, 51.4154075 ],
+					[ 5.4317912, 51.4152834 ],
+					[ 5.432087, 51.4151134 ]
+				]
+			},
+			"properties" : {
+				"id" : "827696959",
+				"highway" : "cycleway",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.432087, 51.4151134 ],
+					[ 5.4325846, 51.4148326 ]
+				]
+			},
+			"properties" : {
+				"id" : "827696959",
+				"highway" : "cycleway",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4412885, 51.4143241 ],
+					[ 5.4410974, 51.4142971 ]
+				]
+			},
+			"properties" : {
+				"id" : "781665014",
+				"name" : "Jongemastate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4351653, 51.4105712 ],
+					[ 5.4351533, 51.4104061 ],
+					[ 5.4348781, 51.4103941 ]
+				]
+			},
+			"properties" : {
+				"id" : "687620237",
+				"name" : "Hunenborg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4344097, 51.4112649 ],
+					[ 5.4344839, 51.4110618 ],
+					[ 5.4346815, 51.4110899 ],
+					[ 5.4346076, 51.411292 ]
+				]
+			},
+			"properties" : {
+				"id" : "687620236",
+				"name" : "Hunenborg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4362902, 51.4145178 ],
+					[ 5.4362351, 51.4148715 ]
+				]
+			},
+			"properties" : {
+				"id" : "338448476",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4362351, 51.4148715 ],
+					[ 5.4362045, 51.4150504 ]
+				]
+			},
+			"properties" : {
+				"id" : "338448476",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4386613, 51.4135924 ],
+					[ 5.4391632, 51.4136683 ]
+				]
+			},
+			"properties" : {
+				"id" : "298883006",
+				"name" : "Uniastate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4359115, 51.4131133 ],
+					[ 5.4361307, 51.4133234 ]
+				]
+			},
+			"properties" : {
+				"id" : "298594750",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4361307, 51.4133234 ],
+					[ 5.4361578, 51.4133484 ],
+					[ 5.4363684, 51.4135421 ],
+					[ 5.4364261, 51.4136098 ]
+				]
+			},
+			"properties" : {
+				"id" : "298594750",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4364261, 51.4136098 ],
+					[ 5.4364214, 51.4137235 ],
+					[ 5.4363361, 51.4142014 ]
+				]
+			},
+			"properties" : {
+				"id" : "298594750",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4363361, 51.4142014 ],
+					[ 5.4362902, 51.4145178 ]
+				]
+			},
+			"properties" : {
+				"id" : "298594750",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4362902, 51.4145178 ],
+					[ 5.4376449, 51.4147212 ]
+				]
+			},
+			"properties" : {
+				"id" : "245810459",
+				"name" : "Dikninge",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4326648, 51.4104193 ],
+					[ 5.4330483, 51.4102819 ],
+					[ 5.4330758, 51.4103463 ],
+					[ 5.4330414, 51.4104566 ],
+					[ 5.4327062, 51.4104666 ]
+				]
+			},
+			"properties" : {
+				"id" : "157328068",
+				"name" : "Herinkhave",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4376449, 51.4147212 ],
+					[ 5.4383082, 51.4148179 ]
+				]
+			},
+			"properties" : {
+				"id" : "146106723",
+				"name" : "Dikninge",
+				"highway" : "cycleway",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4383082, 51.4148179 ],
+					[ 5.4386347, 51.4148654 ],
+					[ 5.4387069, 51.4148759 ],
+					[ 5.4388823, 51.4149015 ],
+					[ 5.4394032, 51.4149774 ],
+					[ 5.4404161, 51.415125 ]
+				]
+			},
+			"properties" : {
+				"id" : "146106723",
+				"name" : "Dikninge",
+				"highway" : "cycleway",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.431033, 51.411632 ],
+					[ 5.4309846, 51.411628 ]
+				]
+			},
+			"properties" : {
+				"id" : "119514070",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4314959, 51.4116851 ],
+					[ 5.4317663, 51.4117168 ],
+					[ 5.4321227, 51.4117585 ],
+					[ 5.4323603, 51.4117863 ]
+				]
+			},
+			"properties" : {
+				"id" : "115920814",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "3"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4323603, 51.4117863 ],
+					[ 5.4338186, 51.411957 ]
+				]
+			},
+			"properties" : {
+				"id" : "115920814",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "3"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4338186, 51.411957 ],
+					[ 5.4338634, 51.4119622 ],
+					[ 5.4346979, 51.412063 ],
+					[ 5.434858, 51.4121019 ]
+				]
+			},
+			"properties" : {
+				"id" : "115920814",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "3"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4361154, 51.411886 ],
+					[ 5.4360654, 51.412022 ],
+					[ 5.4363037, 51.4121862 ]
+				]
+			},
+			"properties" : {
+				"id" : "86451437",
+				"name" : "Backenhagen",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4357608, 51.4116472 ],
+					[ 5.435809, 51.4116924 ],
+					[ 5.4360504, 51.411858 ],
+					[ 5.4360719, 51.4118714 ],
+					[ 5.4360917, 51.4118806 ],
+					[ 5.4361154, 51.411886 ]
+				]
+			},
+			"properties" : {
+				"id" : "86451434",
+				"name" : "Backenhagen",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4361154, 51.411886 ],
+					[ 5.4361494, 51.4118881 ],
+					[ 5.4361762, 51.4118858 ],
+					[ 5.4362003, 51.4118806 ],
+					[ 5.4368821, 51.4114957 ]
+				]
+			},
+			"properties" : {
+				"id" : "86451434",
+				"name" : "Backenhagen",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4362045, 51.4150504 ],
+					[ 5.4360293, 51.4155145 ]
+				]
+			},
+			"properties" : {
+				"id" : "79827193",
+				"name" : "Ulenpas",
+				"highway" : "tertiary",
+				"_overlaps" : 1,
+				"_segments" : "3"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4360293, 51.4155145 ],
+					[ 5.435785, 51.4161615 ],
+					[ 5.4356745, 51.4164542 ],
+					[ 5.435645, 51.4165322 ]
+				]
+			},
+			"properties" : {
+				"id" : "79827193",
+				"name" : "Ulenpas",
+				"highway" : "tertiary",
+				"_overlaps" : 1,
+				"_segments" : "3"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4415326, 51.4168953 ],
+					[ 5.4410797, 51.416975 ],
+					[ 5.440498, 51.4168834 ]
+				]
+			},
+			"properties" : {
+				"id" : "34286626",
+				"highway" : "cycleway",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.440498, 51.4168834 ],
+					[ 5.4403023, 51.4168548 ],
+					[ 5.4400955, 51.4168263 ]
+				]
+			},
+			"properties" : {
+				"id" : "34286626",
+				"highway" : "cycleway",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.434858, 51.4121019 ],
+					[ 5.4354915, 51.4127074 ],
+					[ 5.4356023, 51.4128139 ],
+					[ 5.4359115, 51.4131133 ]
+				]
+			},
+			"properties" : {
+				"id" : "7169044",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4314959, 51.4116851 ],
+					[ 5.4313467, 51.4116693 ],
+					[ 5.431033, 51.411632 ]
+				]
+			},
+			"properties" : {
+				"id" : "7169033",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4323603, 51.4117863 ],
+					[ 5.4322447, 51.412165 ]
+				]
+			},
+			"properties" : {
+				"id" : "7169025",
+				"name" : "Twickel",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4322447, 51.412165 ],
+					[ 5.4321841, 51.4123576 ],
+					[ 5.4321579, 51.4123939 ],
+					[ 5.4316935, 51.4127396 ]
+				]
+			},
+			"properties" : {
+				"id" : "7169017",
+				"name" : "Twickel",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4316935, 51.4127396 ],
+					[ 5.4316598, 51.4127944 ],
+					[ 5.4316074, 51.4131366 ]
+				]
+			},
+			"properties" : {
+				"id" : "7169017",
+				"name" : "Twickel",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4363543, 51.4171306 ],
+					[ 5.4367575, 51.4171936 ],
+					[ 5.4367038, 51.4173273 ],
+					[ 5.4362986, 51.417264 ]
+				]
+			},
+			"properties" : {
+				"id" : "7169016",
+				"name" : "Magerhorst",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4331831, 51.4149238 ],
+					[ 5.4329988, 51.4154139 ],
+					[ 5.4329582, 51.4155218 ]
+				]
+			},
+			"properties" : {
+				"id" : "7169015",
+				"name" : "Rooswijck",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.433617, 51.4160944 ],
+					[ 5.4340514, 51.4161599 ]
+				]
+			},
+			"properties" : {
+				"id" : "7169012",
+				"name" : "Rooswijck",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4343881, 51.4145509 ],
+					[ 5.4342888, 51.4148546 ],
+					[ 5.4341181, 51.4151524 ]
+				]
+			},
+			"properties" : {
+				"id" : "7169010",
+				"name" : "Warmelo",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4338186, 51.411957 ],
+					[ 5.4336778, 51.4124124 ],
+					[ 5.4336893, 51.412444 ]
+				]
+			},
+			"properties" : {
+				"id" : "7169008",
+				"name" : "Weldam",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4329582, 51.4155218 ],
+					[ 5.4328522, 51.4158091 ]
+				]
+			},
+			"properties" : {
+				"id" : "7169006",
+				"name" : "Rooswijck",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4378705, 51.4168683 ],
+					[ 5.4379631, 51.4168834 ]
+				]
+			},
+			"properties" : {
+				"id" : "7169001",
+				"name" : "Enzerink",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4328522, 51.4158091 ],
+					[ 5.4328072, 51.4159311 ],
+					[ 5.4328509, 51.4159782 ]
+				]
+			},
+			"properties" : {
+				"id" : "7169000",
+				"name" : "Rooswijck",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4356823, 51.4116316 ],
+					[ 5.434858, 51.4121019 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168999",
+				"name" : "Hunenborg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4331831, 51.4149238 ],
+					[ 5.4337392, 51.4150128 ],
+					[ 5.4338298, 51.415042 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168996",
+				"name" : "Twickel",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4349311, 51.4142204 ],
+					[ 5.4349592, 51.4142648 ],
+					[ 5.4348506, 51.4145065 ],
+					[ 5.4348019, 51.4145357 ],
+					[ 5.4347326, 51.4145533 ],
+					[ 5.4343881, 51.4145509 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168995",
+				"name" : "Warmelo",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4378906, 51.4134881 ],
+					[ 5.437851, 51.413523 ],
+					[ 5.4377648, 51.4137221 ],
+					[ 5.4377275, 51.4137614 ],
+					[ 5.4376459, 51.4137803 ],
+					[ 5.4375131, 51.4137628 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168994",
+				"name" : "Uniastate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4375131, 51.4137628 ],
+					[ 5.4364261, 51.4136098 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168994",
+				"name" : "Uniastate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4393526, 51.4131839 ],
+					[ 5.4391632, 51.4136683 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168993",
+				"name" : "Jongemastate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4322447, 51.412165 ],
+					[ 5.4332413, 51.4127463 ],
+					[ 5.434275, 51.413384 ],
+					[ 5.4352067, 51.4139515 ],
+					[ 5.4361254, 51.4144998 ],
+					[ 5.4362902, 51.4145178 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168992",
+				"name" : "Ontginningweg",
+				"highway" : "pedestrian",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4328509, 51.4159782 ],
+					[ 5.4326738, 51.4164005 ],
+					[ 5.4326071, 51.4165653 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168991",
+				"name" : "Elswout",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4344097, 51.4112649 ],
+					[ 5.4346076, 51.411292 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168988",
+				"name" : "Hunenborg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4346076, 51.411292 ],
+					[ 5.4346416, 51.4112967 ],
+					[ 5.4349129, 51.4113343 ],
+					[ 5.4351727, 51.411343 ],
+					[ 5.435284, 51.4113314 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168988",
+				"name" : "Hunenborg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4391752, 51.414328 ],
+					[ 5.4395704, 51.4143854 ],
+					[ 5.4396109, 51.4144405 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168986",
+				"name" : "Schatzenburg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4373946, 51.4141111 ],
+					[ 5.437351, 51.4142142 ],
+					[ 5.43738, 51.4142527 ],
+					[ 5.4377849, 51.4143102 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168984",
+				"name" : "Crackstate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4379631, 51.4168834 ],
+					[ 5.4386505, 51.4169922 ],
+					[ 5.4387607, 51.416975 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168983",
+				"name" : "Enzerink",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4339097, 51.4165693 ],
+					[ 5.4338308, 51.4166191 ],
+					[ 5.4336992, 51.4169415 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168982",
+				"name" : "Radboud",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.432626, 51.4132779 ],
+					[ 5.4326916, 51.4132254 ],
+					[ 5.4328732, 51.4131565 ],
+					[ 5.4329687, 51.4131623 ],
+					[ 5.4330511, 51.4131974 ],
+					[ 5.4333844, 51.413369 ],
+					[ 5.4336447, 51.4135045 ],
+					[ 5.4337196, 51.4135723 ],
+					[ 5.4338544, 51.4137591 ],
+					[ 5.4339199, 51.4138187 ],
+					[ 5.4349311, 51.4142204 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168976",
+				"name" : "Warmelo",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4339097, 51.4165693 ],
+					[ 5.434425, 51.4166477 ],
+					[ 5.4344451, 51.4166508 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168974",
+				"name" : "Radboud",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4344451, 51.4166508 ],
+					[ 5.4349378, 51.4167257 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168974",
+				"name" : "Radboud",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.43708, 51.4151804 ],
+					[ 5.4368669, 51.415728 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168971",
+				"name" : "Zijpendaal",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4368669, 51.415728 ],
+					[ 5.4367449, 51.4160414 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168971",
+				"name" : "Zijpendaal",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4335507, 51.4156203 ],
+					[ 5.4337721, 51.415647 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168969",
+				"name" : "Vijverhoef",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4341181, 51.4151524 ],
+					[ 5.4345022, 51.4152864 ],
+					[ 5.4345962, 51.4153195 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168968",
+				"name" : "Twickel",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.439093, 51.4161436 ],
+					[ 5.4390753, 51.4161889 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168967",
+				"name" : "Wijenburg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4344451, 51.4166508 ],
+					[ 5.43451, 51.4167696 ],
+					[ 5.434897, 51.4168279 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168963",
+				"name" : "Radboud",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4329582, 51.4155218 ],
+					[ 5.4335507, 51.4156203 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168962",
+				"name" : "Vijverhoef",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4328509, 51.4159782 ],
+					[ 5.433617, 51.4160944 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168961",
+				"name" : "Rooswijck",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4378906, 51.4134881 ],
+					[ 5.4379698, 51.4134878 ],
+					[ 5.4386613, 51.4135924 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168960",
+				"name" : "Uniastate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4344798, 51.4156118 ],
+					[ 5.4343713, 51.4158968 ],
+					[ 5.434278, 51.4161419 ],
+					[ 5.434196, 51.4161794 ],
+					[ 5.4340514, 51.4161599 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168959",
+				"name" : "Rooswijck",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4377528, 51.4144119 ],
+					[ 5.4377849, 51.4143102 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168958",
+				"name" : "Crackstate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4345962, 51.4153195 ],
+					[ 5.4344798, 51.4156118 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168956",
+				"name" : "Rooswijck",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4375131, 51.4137628 ],
+					[ 5.4373946, 51.4141111 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168953",
+				"name" : "Crackstate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4322408, 51.4155224 ],
+					[ 5.4321751, 51.4157117 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168952",
+				"name" : "Soetendaal",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4368666, 51.4110639 ],
+					[ 5.4367283, 51.4111425 ],
+					[ 5.4358409, 51.4116296 ],
+					[ 5.435798, 51.411643 ],
+					[ 5.4357608, 51.4116472 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168951",
+				"name" : "Hunenborg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4357608, 51.4116472 ],
+					[ 5.4357272, 51.4116428 ],
+					[ 5.4356823, 51.4116316 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168951",
+				"name" : "Hunenborg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4345962, 51.4153195 ],
+					[ 5.4354365, 51.4154388 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168950",
+				"name" : "Twickel",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.435284, 51.4113314 ],
+					[ 5.4353419, 51.4113719 ],
+					[ 5.4356823, 51.4116316 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168944",
+				"name" : "Hunenborg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4321751, 51.4157117 ],
+					[ 5.4321647, 51.4157455 ],
+					[ 5.4320636, 51.4160751 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168943",
+				"name" : "Soetendaal",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4338486, 51.4155385 ],
+					[ 5.4338102, 51.4156521 ],
+					[ 5.4337721, 51.415647 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168942",
+				"name" : "Vijverhoef",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4336893, 51.412444 ],
+					[ 5.4337353, 51.4124777 ],
+					[ 5.434701, 51.413031 ],
+					[ 5.434869, 51.4131764 ],
+					[ 5.4355086, 51.4135519 ],
+					[ 5.4361307, 51.4133234 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168939",
+				"name" : "Weldam",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4393385, 51.4155158 ],
+					[ 5.439093, 51.4161436 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168937",
+				"name" : "Wijenburg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4337721, 51.415647 ],
+					[ 5.433617, 51.4160944 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168935",
+				"name" : "Vijverhoef",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.432387, 51.4097305 ],
+					[ 5.432511, 51.4097061 ],
+					[ 5.4325386, 51.4096775 ],
+					[ 5.4325776, 51.4095157 ],
+					[ 5.4325707, 51.4094799 ],
+					[ 5.4324651, 51.4094398 ],
+					[ 5.4323664, 51.4094713 ],
+					[ 5.432309, 51.4096632 ],
+					[ 5.432387, 51.4097305 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168934",
+				"name" : "Herinkhave",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4390753, 51.4161889 ],
+					[ 5.4389077, 51.4166528 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168930",
+				"name" : "Wijenburg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4389077, 51.4166528 ],
+					[ 5.4388089, 51.4169306 ],
+					[ 5.4387607, 51.416975 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168930",
+				"name" : "Wijenburg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4354365, 51.4154388 ],
+					[ 5.4360293, 51.4155145 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168929",
+				"name" : "Twickel",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4363361, 51.4142014 ],
+					[ 5.4377528, 51.4144119 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168925",
+				"name" : "Crackstate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4316074, 51.4131366 ],
+					[ 5.4314651, 51.413939 ],
+					[ 5.4314838, 51.4139997 ],
+					[ 5.4315194, 51.4140511 ],
+					[ 5.4323508, 51.4147553 ],
+					[ 5.4324407, 51.4147997 ],
+					[ 5.4325846, 51.4148326 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168924",
+				"name" : "Twickel",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4325846, 51.4148326 ],
+					[ 5.4326996, 51.4148481 ],
+					[ 5.4328772, 51.4148759 ],
+					[ 5.4331831, 51.4149238 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168924",
+				"name" : "Twickel",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4376643, 51.4134503 ],
+					[ 5.4378906, 51.4134881 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168923",
+				"name" : "Uniastate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4336224, 51.4155061 ],
+					[ 5.4338486, 51.4155385 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168921",
+				"name" : "Vijverhoef",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4326071, 51.4165653 ],
+					[ 5.4326898, 51.4166228 ],
+					[ 5.4326458, 51.4167458 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168920",
+				"name" : "Elswout",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4365482, 51.416666 ],
+					[ 5.4363543, 51.4171306 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168914",
+				"name" : "Magerhorst",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4363543, 51.4171306 ],
+					[ 5.4362986, 51.417264 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168914",
+				"name" : "Magerhorst",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4316074, 51.4131366 ],
+					[ 5.432626, 51.4132779 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168913",
+				"name" : "Warmelo",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4373946, 51.4141111 ],
+					[ 5.4378354, 51.4141756 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168911",
+				"name" : "Crackstate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4321751, 51.4157117 ],
+					[ 5.4328522, 51.4158091 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168910",
+				"name" : "Soetendaal",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4396109, 51.4144405 ],
+					[ 5.4395504, 51.4145954 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168909",
+				"name" : "Schatzenburg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4395504, 51.4145954 ],
+					[ 5.4395196, 51.4146741 ],
+					[ 5.4394637, 51.414817 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168909",
+				"name" : "Schatzenburg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4348781, 51.4103941 ],
+					[ 5.4350335, 51.4105546 ],
+					[ 5.4351653, 51.4105712 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168905",
+				"name" : "Hunenborg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4351653, 51.4105712 ],
+					[ 5.4354463, 51.4106067 ],
+					[ 5.4354741, 51.4106588 ],
+					[ 5.4354254, 51.4107166 ],
+					[ 5.4352701, 51.4112764 ],
+					[ 5.435284, 51.4113314 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168905",
+				"name" : "Hunenborg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4336224, 51.4155061 ],
+					[ 5.4335977, 51.4155027 ],
+					[ 5.4335507, 51.4156203 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168901",
+				"name" : "Vijverhoef",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.435443, 51.4147555 ],
+					[ 5.4362351, 51.4148715 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168900",
+				"name" : "Ontginningweg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.432626, 51.4132779 ],
+					[ 5.432534, 51.4137396 ],
+					[ 5.4325462, 51.4138125 ],
+					[ 5.4326193, 51.4138772 ],
+					[ 5.4333404, 51.4143705 ],
+					[ 5.4333856, 51.4143919 ],
+					[ 5.4334571, 51.4144169 ],
+					[ 5.4343881, 51.4145509 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168898",
+				"name" : "Warmelo",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4378705, 51.4168683 ],
+					[ 5.4376847, 51.4173348 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168896",
+				"name" : "Doddendaal",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4376847, 51.4173348 ],
+					[ 5.4376278, 51.417479 ],
+					[ 5.4380289, 51.4175367 ],
+					[ 5.4380867, 51.4173945 ],
+					[ 5.4376847, 51.4173348 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168896",
+				"name" : "Doddendaal",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4338298, 51.415042 ],
+					[ 5.4341181, 51.4151524 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168895",
+				"name" : "Twickel",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4389077, 51.4166528 ],
+					[ 5.4394082, 51.4167273 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168894",
+				"name" : "Duistervoorde",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4380934, 51.4160496 ],
+					[ 5.4382685, 51.4160744 ],
+					[ 5.4383266, 51.4160827 ],
+					[ 5.4390753, 51.4161889 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168893",
+				"name" : "Slangenburg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4327085, 51.4108977 ],
+					[ 5.432837, 51.4109406 ],
+					[ 5.4329886, 51.4109721 ],
+					[ 5.4332595, 51.4110137 ],
+					[ 5.4334753, 51.4110409 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168891",
+				"name" : "Herinkhave",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4334753, 51.4110409 ],
+					[ 5.4338063, 51.4110772 ],
+					[ 5.4338512, 51.4109405 ],
+					[ 5.4335878, 51.4109105 ],
+					[ 5.4334753, 51.4110409 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168891",
+				"name" : "Herinkhave",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4380934, 51.4160496 ],
+					[ 5.4380254, 51.416223 ],
+					[ 5.4377981, 51.4161883 ],
+					[ 5.4379179, 51.4158823 ],
+					[ 5.4381454, 51.415917 ],
+					[ 5.4380934, 51.4160496 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168890",
+				"name" : "Slangenburg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4326071, 51.4165653 ],
+					[ 5.4324093, 51.4165384 ],
+					[ 5.4323048, 51.4165428 ],
+					[ 5.4320787, 51.4165092 ],
+					[ 5.4320469, 51.4165045 ],
+					[ 5.43198, 51.4166714 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168888",
+				"name" : "Elswout",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4338298, 51.415042 ],
+					[ 5.4336224, 51.4155061 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168885",
+				"name" : "Vijverhoef",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.435645, 51.4165322 ],
+					[ 5.4364836, 51.4166564 ],
+					[ 5.4365482, 51.416666 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168884",
+				"name" : "Enzerink",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4377528, 51.4144119 ],
+					[ 5.4376449, 51.4147212 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168882",
+				"name" : "Dikninge",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4338486, 51.4155385 ],
+					[ 5.4339934, 51.4155427 ],
+					[ 5.4344798, 51.4156118 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168880",
+				"name" : "Vijverhoef",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4376643, 51.4134503 ],
+					[ 5.4375796, 51.4136927 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168877",
+				"name" : "Uniastate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.439093, 51.4161436 ],
+					[ 5.4396601, 51.4162273 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168875",
+				"name" : "Biljoen",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.432387, 51.4097305 ],
+					[ 5.4322814, 51.4100842 ],
+					[ 5.4322952, 51.410163 ],
+					[ 5.4323572, 51.410226 ],
+					[ 5.4326648, 51.4104193 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168873",
+				"name" : "Herinkhave",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4326648, 51.4104193 ],
+					[ 5.4327062, 51.4104666 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168873",
+				"name" : "Herinkhave",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4327062, 51.4104666 ],
+					[ 5.4327291, 51.4106413 ],
+					[ 5.4327682, 51.410796 ],
+					[ 5.4327613, 51.4108504 ],
+					[ 5.4327085, 51.4108977 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168873",
+				"name" : "Herinkhave",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4327085, 51.4108977 ],
+					[ 5.4326074, 51.4109893 ],
+					[ 5.4323603, 51.4117863 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168873",
+				"name" : "Herinkhave",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4378354, 51.4141756 ],
+					[ 5.4377849, 51.4143102 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168870",
+				"name" : "Crackstate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4365482, 51.416666 ],
+					[ 5.4378705, 51.4168683 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168868",
+				"name" : "Enzerink",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4340514, 51.4161599 ],
+					[ 5.4339097, 51.4165693 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168867",
+				"name" : "Radboud",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4394082, 51.4167273 ],
+					[ 5.4392641, 51.4171252 ],
+					[ 5.4391846, 51.4173449 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168679",
+				"name" : "Klingelbeek",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4391846, 51.4173449 ],
+					[ 5.4391066, 51.4175475 ],
+					[ 5.4390613, 51.4176723 ],
+					[ 5.4392921, 51.4177061 ],
+					[ 5.4394171, 51.4173776 ],
+					[ 5.4391846, 51.4173449 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168679",
+				"name" : "Klingelbeek",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4428779, 51.4176432 ],
+					[ 5.4438667, 51.4177928 ],
+					[ 5.4439407, 51.417804 ],
+					[ 5.4446894, 51.4179173 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168563",
+				"name" : "Ehrenstein",
+				"highway" : "tertiary",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4428779, 51.4176432 ],
+					[ 5.4427081, 51.4180503 ],
+					[ 5.4426583, 51.4181697 ],
+					[ 5.4426819, 51.418222 ],
+					[ 5.4427616, 51.4182433 ],
+					[ 5.4435901, 51.4183592 ],
+					[ 5.4443477, 51.4184723 ],
+					[ 5.4444562, 51.4184632 ],
+					[ 5.4445036, 51.4184226 ],
+					[ 5.4446894, 51.4179173 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168503",
+				"name" : "Vaeshartelt",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4407059, 51.41407 ],
+					[ 5.4405996, 51.4142268 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168305",
+				"name" : "Jongemastate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4428963, 51.4134702 ],
+					[ 5.4427648, 51.413594 ],
+					[ 5.4426771, 51.4135983 ],
+					[ 5.4424602, 51.4135623 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168301",
+				"name" : "Allersma",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.44324, 51.41669 ],
+					[ 5.4431524, 51.4169238 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168298",
+				"name" : "Puthof",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4444013, 51.4163608 ],
+					[ 5.444212, 51.4168743 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168296",
+				"name" : "Hartelstein",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.445589, 51.4146004 ],
+					[ 5.4453966, 51.415095 ],
+					[ 5.4453643, 51.4151242 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168295",
+				"name" : "Allersma",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.44672, 51.4149929 ],
+					[ 5.4465969, 51.4153219 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168294",
+				"name" : "Ennemaborg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4433207, 51.4169491 ],
+					[ 5.4437151, 51.4170085 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168291",
+				"name" : "Hartelstein",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4445858, 51.4158414 ],
+					[ 5.4444196, 51.4163093 ],
+					[ 5.4444013, 51.4163608 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168288",
+				"name" : "Hartelstein",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4437151, 51.4170085 ],
+					[ 5.4435588, 51.4174283 ],
+					[ 5.4433125, 51.4173904 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168286",
+				"name" : "Hartelstein",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4401984, 51.4156435 ],
+					[ 5.4402679, 51.4156544 ],
+					[ 5.4405388, 51.4156969 ],
+					[ 5.4410478, 51.4157655 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168285",
+				"name" : "Oldengaarde",
+				"highway" : "tertiary",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4436714, 51.4156877 ],
+					[ 5.4441505, 51.4157631 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168284",
+				"name" : "Imstenrade",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4404161, 51.415125 ],
+					[ 5.4414518, 51.4153051 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168281",
+				"name" : "Dikninge",
+				"highway" : "cycleway",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.44672, 51.4149929 ],
+					[ 5.4465496, 51.4149648 ],
+					[ 5.4464881, 51.4149752 ],
+					[ 5.4463816, 51.415291 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168277",
+				"name" : "Ennemaborg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4430431, 51.4133871 ],
+					[ 5.4429771, 51.413404 ],
+					[ 5.4428963, 51.4134702 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168271",
+				"name" : "Allersma",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4401025, 51.413805 ],
+					[ 5.4400023, 51.4140623 ],
+					[ 5.4400132, 51.4141126 ],
+					[ 5.4400652, 51.4141437 ],
+					[ 5.4401829, 51.414168 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168269",
+				"name" : "Jongemastate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4431525, 51.4150677 ],
+					[ 5.4429563, 51.4155699 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168268",
+				"name" : "Nederhoven",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4430431, 51.4133871 ],
+					[ 5.4438609, 51.4135047 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168267",
+				"name" : "Allersma",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4453643, 51.4151242 ],
+					[ 5.4453122, 51.415139 ],
+					[ 5.4449573, 51.4151581 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168265",
+				"name" : "Ennemaborg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4401873, 51.4165669 ],
+					[ 5.4400955, 51.4168263 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168262",
+				"name" : "Duistervoorde",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4401984, 51.4156435 ],
+					[ 5.4401268, 51.4158381 ],
+					[ 5.4403213, 51.4162792 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168261",
+				"name" : "Mensinge",
+				"highway" : "cycleway",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4433207, 51.4169491 ],
+					[ 5.4431783, 51.4173264 ],
+					[ 5.4431626, 51.4173679 ],
+					[ 5.4433125, 51.4173904 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168260",
+				"name" : "Holtmeulen",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4453784, 51.4165172 ],
+					[ 5.4451868, 51.4170233 ],
+					[ 5.4448056, 51.416965 ],
+					[ 5.4444137, 51.4169051 ],
+					[ 5.444212, 51.4168743 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168258",
+				"name" : "Geleenhof",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4429563, 51.4155699 ],
+					[ 5.4434256, 51.4156476 ],
+					[ 5.443471, 51.4156551 ],
+					[ 5.4436714, 51.4156877 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168256",
+				"name" : "Imstenrade",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.444212, 51.4168743 ],
+					[ 5.4441623, 51.4169997 ],
+					[ 5.4441008, 51.4170395 ],
+					[ 5.4440156, 51.4170469 ],
+					[ 5.4437151, 51.4170085 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168252",
+				"name" : "Hartelstein",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.442151, 51.416773 ],
+					[ 5.4427613, 51.4168649 ],
+					[ 5.4431524, 51.4169238 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168251",
+				"name" : "Hartelstein",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4439204, 51.4150263 ],
+					[ 5.4443658, 51.4150917 ],
+					[ 5.44438, 51.4151286 ],
+					[ 5.4441505, 51.4157631 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168249",
+				"name" : "Nederhoven",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4417867, 51.4174781 ],
+					[ 5.4420801, 51.4175225 ],
+					[ 5.4428779, 51.4176432 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168248",
+				"name" : "Ehrenstein",
+				"highway" : "tertiary",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.442151, 51.416773 ],
+					[ 5.4419382, 51.4168151 ],
+					[ 5.4415326, 51.4168953 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168245",
+				"name" : "Hartelstein",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4436714, 51.4156877 ],
+					[ 5.4435779, 51.4159196 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168244",
+				"name" : "Puthof",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4450754, 51.4156751 ],
+					[ 5.4445858, 51.4158414 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168242",
+				"name" : "Hartelstein",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4404161, 51.415125 ],
+					[ 5.4403909, 51.4151507 ],
+					[ 5.4401984, 51.4156435 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168239",
+				"name" : "Mensinge",
+				"highway" : "cycleway",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4429563, 51.4155699 ],
+					[ 5.4427602, 51.415544 ],
+					[ 5.4426379, 51.4155512 ],
+					[ 5.4425941, 51.4155944 ],
+					[ 5.4425146, 51.415806 ],
+					[ 5.4423415, 51.416257 ],
+					[ 5.442151, 51.416773 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168235",
+				"name" : "Imstenrade",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4444013, 51.4163608 ],
+					[ 5.4453784, 51.4165172 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168231",
+				"name" : "Geleenhof",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4403213, 51.4162792 ],
+					[ 5.4404324, 51.4165095 ],
+					[ 5.4405177, 51.4167636 ],
+					[ 5.440498, 51.4168834 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168230",
+				"name" : "Biljoen",
+				"highway" : "cycleway",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4415326, 51.4168953 ],
+					[ 5.441667, 51.4171881 ],
+					[ 5.4417498, 51.417379 ],
+					[ 5.4417867, 51.4174781 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168228",
+				"name" : "Keverberg",
+				"highway" : "tertiary",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4410478, 51.4157655 ],
+					[ 5.4410685, 51.4158488 ],
+					[ 5.4411963, 51.4161368 ],
+					[ 5.4414171, 51.4166349 ],
+					[ 5.4415326, 51.4168953 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168227",
+				"name" : "Keverberg",
+				"highway" : "tertiary",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4441505, 51.4157631 ],
+					[ 5.4444936, 51.4158133 ],
+					[ 5.4445858, 51.4158414 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168225",
+				"name" : "Imstenrade",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4416232, 51.413441 ],
+					[ 5.4406596, 51.413302 ],
+					[ 5.4405816, 51.4133253 ],
+					[ 5.4404197, 51.4134678 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168224",
+				"name" : "Jongemastate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.442421, 51.4142732 ],
+					[ 5.4425364, 51.4142689 ],
+					[ 5.4431317, 51.4143582 ],
+					[ 5.4435046, 51.4144072 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168221",
+				"name" : "Lichtenberg",
+				"highway" : "tertiary",
+				"_overlaps" : 1,
+				"_segments" : "4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4435046, 51.4144072 ],
+					[ 5.4441183, 51.4144975 ],
+					[ 5.4442253, 51.4145132 ],
+					[ 5.4447256, 51.4145937 ],
+					[ 5.4448169, 51.4146408 ],
+					[ 5.4448578, 51.4147114 ],
+					[ 5.4448946, 51.4148486 ],
+					[ 5.4449573, 51.4151581 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168221",
+				"name" : "Lichtenberg",
+				"highway" : "tertiary",
+				"_overlaps" : 1,
+				"_segments" : "4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4449573, 51.4151581 ],
+					[ 5.4450323, 51.415564 ],
+					[ 5.4450423, 51.4156142 ],
+					[ 5.4450754, 51.4156751 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168221",
+				"name" : "Lichtenberg",
+				"highway" : "tertiary",
+				"_overlaps" : 1,
+				"_segments" : "4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4401829, 51.414168 ],
+					[ 5.4400513, 51.4145047 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168213",
+				"name" : "Schatzenburg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4400513, 51.4145047 ],
+					[ 5.4399912, 51.4146612 ],
+					[ 5.4395504, 51.4145954 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168213",
+				"name" : "Schatzenburg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4436255, 51.4140862 ],
+					[ 5.4435046, 51.4144072 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168212",
+				"name" : "Lichtenberg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4458238, 51.4139853 ],
+					[ 5.4456665, 51.4143994 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168203",
+				"name" : "Allersma",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4456665, 51.4143994 ],
+					[ 5.445589, 51.4146004 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168201",
+				"name" : "Allersma",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4412885, 51.4143241 ],
+					[ 5.4414034, 51.4143495 ],
+					[ 5.441866, 51.4145085 ],
+					[ 5.4420818, 51.4145827 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168200",
+				"name" : "Jongemastate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4410974, 51.4142971 ],
+					[ 5.4410612, 51.4143965 ],
+					[ 5.4410557, 51.4144109 ],
+					[ 5.4408791, 51.4148753 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168197",
+				"name" : "Mensinge",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4405996, 51.4142268 ],
+					[ 5.4410974, 51.4142971 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168193",
+				"name" : "Jongemastate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4450796, 51.4136925 ],
+					[ 5.4452165, 51.4137144 ],
+					[ 5.4457829, 51.4137969 ],
+					[ 5.4458459, 51.41384 ],
+					[ 5.4458584, 51.413897 ],
+					[ 5.4458238, 51.4139853 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168190",
+				"name" : "Allersma",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4404197, 51.4134678 ],
+					[ 5.4401025, 51.413805 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168188",
+				"name" : "Jongemastate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4408791, 51.4148753 ],
+					[ 5.4404161, 51.415125 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168185",
+				"name" : "Mensinge",
+				"highway" : "cycleway",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.442985, 51.4129973 ],
+					[ 5.4428691, 51.4132917 ],
+					[ 5.4428963, 51.4134702 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168183",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4431524, 51.4169238 ],
+					[ 5.4433207, 51.4169491 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168181",
+				"name" : "Hartelstein",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4439204, 51.4150263 ],
+					[ 5.4433253, 51.4149391 ],
+					[ 5.4432125, 51.4149209 ],
+					[ 5.4431525, 51.4150677 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168179",
+				"name" : "Nederhoven",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4463816, 51.415291 ],
+					[ 5.4465969, 51.4153219 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168178",
+				"name" : "Ennemaborg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.446242, 51.4152673 ],
+					[ 5.4463816, 51.415291 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168177",
+				"name" : "Ennemaborg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4401829, 51.414168 ],
+					[ 5.4404902, 51.4142114 ],
+					[ 5.4405996, 51.4142268 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168175",
+				"name" : "Jongemastate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4458238, 51.4139853 ],
+					[ 5.4464219, 51.414077 ],
+					[ 5.4466613, 51.4141137 ],
+					[ 5.4468084, 51.4141362 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168168",
+				"name" : "Rusthoven",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4468084, 51.4141362 ],
+					[ 5.4470347, 51.4141709 ],
+					[ 5.446956, 51.414386 ],
+					[ 5.4467288, 51.4143509 ],
+					[ 5.4468084, 51.4141362 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168168",
+				"name" : "Rusthoven",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4438609, 51.4135047 ],
+					[ 5.4436255, 51.4140862 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168167",
+				"name" : "Wedderborg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4408102, 51.4139124 ],
+					[ 5.4407059, 51.41407 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168166",
+				"name" : "Jongemastate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4453643, 51.4151242 ],
+					[ 5.446242, 51.4152673 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168165",
+				"name" : "Ennemaborg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4446438, 51.4136242 ],
+					[ 5.4448792, 51.4136611 ],
+					[ 5.4450796, 51.4136925 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168163",
+				"name" : "Allersma",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.442421, 51.4142732 ],
+					[ 5.4423402, 51.4143006 ],
+					[ 5.4420818, 51.4145827 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168161",
+				"name" : "Keverberg",
+				"highway" : "tertiary",
+				"_overlaps" : 1,
+				"_segments" : "3"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4420818, 51.4145827 ],
+					[ 5.4418728, 51.4148223 ],
+					[ 5.4414518, 51.4153051 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168161",
+				"name" : "Keverberg",
+				"highway" : "tertiary",
+				"_overlaps" : 1,
+				"_segments" : "3"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4414518, 51.4153051 ],
+					[ 5.4410478, 51.4157655 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168161",
+				"name" : "Keverberg",
+				"highway" : "tertiary",
+				"_overlaps" : 1,
+				"_segments" : "3"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4438609, 51.4135047 ],
+					[ 5.4446438, 51.4136242 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168160",
+				"name" : "Allersma",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4416232, 51.413441 ],
+					[ 5.441715, 51.4134546 ],
+					[ 5.4421163, 51.4135143 ],
+					[ 5.4424602, 51.4135623 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168157",
+				"name" : "Allersma",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4362045, 51.4150504 ],
+					[ 5.4364278, 51.4150836 ],
+					[ 5.4366095, 51.4151105 ],
+					[ 5.43708, 51.4151804 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168155",
+				"name" : "Oldengaarde",
+				"highway" : "tertiary",
+				"_overlaps" : 1,
+				"_segments" : "4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.43708, 51.4151804 ],
+					[ 5.438116, 51.4153343 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168155",
+				"name" : "Oldengaarde",
+				"highway" : "tertiary",
+				"_overlaps" : 1,
+				"_segments" : "4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.438116, 51.4153343 ],
+					[ 5.4384997, 51.4153912 ],
+					[ 5.438579, 51.415403 ],
+					[ 5.4391395, 51.4154862 ],
+					[ 5.4393385, 51.4155158 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168155",
+				"name" : "Oldengaarde",
+				"highway" : "tertiary",
+				"_overlaps" : 1,
+				"_segments" : "4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4393385, 51.4155158 ],
+					[ 5.4399051, 51.4155999 ],
+					[ 5.4401984, 51.4156435 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168155",
+				"name" : "Oldengaarde",
+				"highway" : "tertiary",
+				"_overlaps" : 1,
+				"_segments" : "4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4396109, 51.4144405 ],
+					[ 5.4400513, 51.4145047 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168154",
+				"name" : "Schatzenburg",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4394082, 51.4167273 ],
+					[ 5.4400955, 51.4168263 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168153",
+				"name" : "Duistervoorde",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 5.4391632, 51.4136683 ],
+					[ 5.4392923, 51.413688 ],
+					[ 5.4397552, 51.4137585 ],
+					[ 5.4401025, 51.413805 ]
+				]
+			},
+			"properties" : {
+				"id" : "7168151",
+				"name" : "Uniastate",
+				"highway" : "residential",
+				"_overlaps" : 1,
+				"_segments" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4405996, 51.4142268 ]
+			},
+			"properties" : {
+				"id" : "7168193",
+				"name" : "Jongemastate",
+				"highway" : "residential",
+				"_node_number" : 2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4344451, 51.4166508 ]
+			},
+			"properties" : {
+				"id" : "7168974",
+				"name" : "Radboud",
+				"highway" : "residential",
+				"_node_number" : 5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4436714, 51.4156877 ]
+			},
+			"properties" : {
+				"id" : "7168284",
+				"name" : "Imstenrade",
+				"highway" : "residential",
+				"_node_number" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4327085, 51.4108977 ]
+			},
+			"properties" : {
+				"id" : "7168891",
+				"name" : "Herinkhave",
+				"highway" : "residential",
+				"_node_number" : 15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4433125, 51.4173904 ]
+			},
+			"properties" : {
+				"id" : "7168286",
+				"name" : "Hartelstein",
+				"highway" : "residential",
+				"_node_number" : 19
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4331831, 51.4149238 ]
+			},
+			"properties" : {
+				"id" : "7168996",
+				"name" : "Twickel",
+				"highway" : "residential",
+				"_node_number" : 20
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4359115, 51.4131133 ]
+			},
+			"properties" : {
+				"id" : "298594750",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_node_number" : 24
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4344097, 51.4112649 ]
+			},
+			"properties" : {
+				"id" : "7168988",
+				"name" : "Hunenborg",
+				"highway" : "residential",
+				"_node_number" : 29
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4322447, 51.412165 ]
+			},
+			"properties" : {
+				"id" : "7168992",
+				"name" : "Ontginningweg",
+				"highway" : "pedestrian",
+				"_node_number" : 33
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4326648, 51.4104193 ]
+			},
+			"properties" : {
+				"id" : "7168873",
+				"name" : "Herinkhave",
+				"highway" : "residential",
+				"_node_number" : 36
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.432626, 51.4132779 ]
+			},
+			"properties" : {
+				"id" : "7168898",
+				"name" : "Warmelo",
+				"highway" : "residential",
+				"_node_number" : 40
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4407059, 51.41407 ]
+			},
+			"properties" : {
+				"id" : "7168305",
+				"name" : "Jongemastate",
+				"highway" : "residential",
+				"_node_number" : 41
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4349378, 51.4167257 ]
+			},
+			"properties" : {
+				"id" : "1115679164",
+				"name" : "Radboud",
+				"highway" : "residential",
+				"_node_number" : 42
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4377528, 51.4144119 ]
+			},
+			"properties" : {
+				"id" : "7168882",
+				"name" : "Dikninge",
+				"highway" : "residential",
+				"_node_number" : 43
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4338486, 51.4155385 ]
+			},
+			"properties" : {
+				"id" : "7168880",
+				"name" : "Vijverhoef",
+				"highway" : "residential",
+				"_node_number" : 45
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4376449, 51.4147212 ]
+			},
+			"properties" : {
+				"id" : "146106723",
+				"name" : "Dikninge",
+				"highway" : "cycleway",
+				"_node_number" : 46
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4378906, 51.4134881 ]
+			},
+			"properties" : {
+				"id" : "7168994",
+				"name" : "Uniastate",
+				"highway" : "residential",
+				"_node_number" : 47
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4349311, 51.4142204 ]
+			},
+			"properties" : {
+				"id" : "7168995",
+				"name" : "Warmelo",
+				"highway" : "residential",
+				"_node_number" : 48
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4390753, 51.4161889 ]
+			},
+			"properties" : {
+				"id" : "7168930",
+				"name" : "Wijenburg",
+				"highway" : "residential",
+				"_node_number" : 50
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4393385, 51.4155158 ]
+			},
+			"properties" : {
+				"id" : "7168155",
+				"name" : "Oldengaarde",
+				"highway" : "tertiary",
+				"_node_number" : 51
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4435779, 51.4159196 ]
+			},
+			"properties" : {
+				"id" : "7168244",
+				"name" : "Puthof",
+				"highway" : "residential",
+				"_node_number" : 52
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4363361, 51.4142014 ]
+			},
+			"properties" : {
+				"id" : "7168925",
+				"name" : "Crackstate",
+				"highway" : "residential",
+				"_node_number" : 53
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4323603, 51.4117863 ]
+			},
+			"properties" : {
+				"id" : "115920814",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_node_number" : 54
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4314063, 51.4169251 ]
+			},
+			"properties" : {
+				"id" : "835151237",
+				"name" : "Meerveldhovenseweg",
+				"highway" : "cycleway",
+				"_node_number" : 55
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4328522, 51.4158091 ]
+			},
+			"properties" : {
+				"id" : "7169000",
+				"name" : "Rooswijck",
+				"highway" : "residential",
+				"_node_number" : 56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4351653, 51.4105712 ]
+			},
+			"properties" : {
+				"id" : "7168905",
+				"name" : "Hunenborg",
+				"highway" : "residential",
+				"_node_number" : 57
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.43198, 51.4166714 ]
+			},
+			"properties" : {
+				"id" : "7168888",
+				"name" : "Elswout",
+				"highway" : "residential",
+				"_node_number" : 59
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4393526, 51.4131839 ]
+			},
+			"properties" : {
+				"id" : "7168993",
+				"name" : "Jongemastate",
+				"highway" : "residential",
+				"_node_number" : 61
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4412885, 51.4143241 ]
+			},
+			"properties" : {
+				"id" : "7168200",
+				"name" : "Jongemastate",
+				"highway" : "residential",
+				"_node_number" : 62
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4335507, 51.4156203 ]
+			},
+			"properties" : {
+				"id" : "7168969",
+				"name" : "Vijverhoef",
+				"highway" : "residential",
+				"_node_number" : 64
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.432387, 51.4097305 ]
+			},
+			"properties" : {
+				"id" : "7168873",
+				"name" : "Herinkhave",
+				"highway" : "residential",
+				"_node_number" : 65
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4344798, 51.4156118 ]
+			},
+			"properties" : {
+				"id" : "7168959",
+				"name" : "Rooswijck",
+				"highway" : "residential",
+				"_node_number" : 66
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4394082, 51.4167273 ]
+			},
+			"properties" : {
+				"id" : "7168153",
+				"name" : "Duistervoorde",
+				"highway" : "residential",
+				"_node_number" : 67
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4373946, 51.4141111 ]
+			},
+			"properties" : {
+				"id" : "7168911",
+				"name" : "Crackstate",
+				"highway" : "residential",
+				"_node_number" : 71
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4416232, 51.413441 ]
+			},
+			"properties" : {
+				"id" : "7168157",
+				"name" : "Allersma",
+				"highway" : "residential",
+				"_node_number" : 72
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4362351, 51.4148715 ]
+			},
+			"properties" : {
+				"id" : "338448476",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_node_number" : 73
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4396601, 51.4162273 ]
+			},
+			"properties" : {
+				"id" : "7168875",
+				"name" : "Biljoen",
+				"highway" : "residential",
+				"_node_number" : 75
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.435443, 51.4147555 ]
+			},
+			"properties" : {
+				"id" : "7168900",
+				"name" : "Ontginningweg",
+				"highway" : "residential",
+				"_node_number" : 78
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4336893, 51.412444 ]
+			},
+			"properties" : {
+				"id" : "7168939",
+				"name" : "Weldam",
+				"highway" : "residential",
+				"_node_number" : 80
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.434858, 51.4121019 ]
+			},
+			"properties" : {
+				"id" : "7169044",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_node_number" : 81
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4327062, 51.4104666 ]
+			},
+			"properties" : {
+				"id" : "7168873",
+				"name" : "Herinkhave",
+				"highway" : "residential",
+				"_node_number" : 83
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4368669, 51.415728 ]
+			},
+			"properties" : {
+				"id" : "1115679193",
+				"name" : "Zijpendaal",
+				"highway" : "residential",
+				"_node_number" : 87
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4326458, 51.4167458 ]
+			},
+			"properties" : {
+				"id" : "7168920",
+				"name" : "Elswout",
+				"highway" : "residential",
+				"_node_number" : 88
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4391846, 51.4173449 ]
+			},
+			"properties" : {
+				"id" : "7168679",
+				"name" : "Klingelbeek",
+				"highway" : "residential",
+				"_node_number" : 92
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4431525, 51.4150677 ]
+			},
+			"properties" : {
+				"id" : "7168268",
+				"name" : "Nederhoven",
+				"highway" : "residential",
+				"_node_number" : 93
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4362986, 51.417264 ]
+			},
+			"properties" : {
+				"id" : "7169016",
+				"name" : "Magerhorst",
+				"highway" : "residential",
+				"_node_number" : 94
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4376643, 51.4134503 ]
+			},
+			"properties" : {
+				"id" : "7168923",
+				"name" : "Uniastate",
+				"highway" : "residential",
+				"_node_number" : 99
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4376847, 51.4173348 ]
+			},
+			"properties" : {
+				"id" : "7168896",
+				"name" : "Doddendaal",
+				"highway" : "residential",
+				"_node_number" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4380934, 51.4160496 ]
+			},
+			"properties" : {
+				"id" : "7168893",
+				"name" : "Slangenburg",
+				"highway" : "residential",
+				"_node_number" : 102
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4401873, 51.4165669 ]
+			},
+			"properties" : {
+				"id" : "7168262",
+				"name" : "Duistervoorde",
+				"highway" : "residential",
+				"_node_number" : 107
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.442151, 51.416773 ]
+			},
+			"properties" : {
+				"id" : "7168251",
+				"name" : "Hartelstein",
+				"highway" : "residential",
+				"_node_number" : 109
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.44324, 51.41669 ]
+			},
+			"properties" : {
+				"id" : "7168298",
+				"name" : "Puthof",
+				"highway" : "residential",
+				"_node_number" : 111
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4453784, 51.4165172 ]
+			},
+			"properties" : {
+				"id" : "7168258",
+				"name" : "Geleenhof",
+				"highway" : "residential",
+				"_node_number" : 118
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4424602, 51.4135623 ]
+			},
+			"properties" : {
+				"id" : "7168301",
+				"name" : "Allersma",
+				"highway" : "residential",
+				"_node_number" : 119
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4408791, 51.4148753 ]
+			},
+			"properties" : {
+				"id" : "7168185",
+				"name" : "Mensinge",
+				"highway" : "cycleway",
+				"_node_number" : 121
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4450796, 51.4136925 ]
+			},
+			"properties" : {
+				"id" : "7168190",
+				"name" : "Allersma",
+				"highway" : "residential",
+				"_node_number" : 122
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.440498, 51.4168834 ]
+			},
+			"properties" : {
+				"id" : "34286626",
+				"highway" : "cycleway",
+				"_node_number" : 126
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4346076, 51.411292 ]
+			},
+			"properties" : {
+				"id" : "7168988",
+				"name" : "Hunenborg",
+				"highway" : "residential",
+				"_node_number" : 127
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.432087, 51.4151134 ]
+			},
+			"properties" : {
+				"id" : "827696959",
+				"highway" : "cycleway",
+				"_node_number" : 131
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.446242, 51.4152673 ]
+			},
+			"properties" : {
+				"id" : "7168177",
+				"name" : "Ennemaborg",
+				"highway" : "residential",
+				"_node_number" : 132
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4391632, 51.4136683 ]
+			},
+			"properties" : {
+				"id" : "7168151",
+				"name" : "Uniastate",
+				"highway" : "residential",
+				"_node_number" : 134
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4309846, 51.411628 ]
+			},
+			"properties" : {
+				"id" : "119514070",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_node_number" : 136
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4437151, 51.4170085 ]
+			},
+			"properties" : {
+				"id" : "7168252",
+				"name" : "Hartelstein",
+				"highway" : "residential",
+				"_node_number" : 137
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4320636, 51.4160751 ]
+			},
+			"properties" : {
+				"id" : "7168943",
+				"name" : "Soetendaal",
+				"highway" : "residential",
+				"_node_number" : 138
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4362902, 51.4145178 ]
+			},
+			"properties" : {
+				"id" : "245810459",
+				"name" : "Dikninge",
+				"highway" : "residential",
+				"_node_number" : 140
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4340514, 51.4161599 ]
+			},
+			"properties" : {
+				"id" : "7168959",
+				"name" : "Rooswijck",
+				"highway" : "residential",
+				"_node_number" : 141
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4328509, 51.4159782 ]
+			},
+			"properties" : {
+				"id" : "7168961",
+				"name" : "Rooswijck",
+				"highway" : "residential",
+				"_node_number" : 144
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4458238, 51.4139853 ]
+			},
+			"properties" : {
+				"id" : "7168168",
+				"name" : "Rusthoven",
+				"highway" : "residential",
+				"_node_number" : 146
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4325846, 51.4148326 ]
+			},
+			"properties" : {
+				"id" : "7168924",
+				"name" : "Twickel",
+				"highway" : "residential",
+				"_node_number" : 152
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4357608, 51.4116472 ]
+			},
+			"properties" : {
+				"id" : "86451434",
+				"name" : "Backenhagen",
+				"highway" : "residential",
+				"_node_number" : 154
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4343881, 51.4145509 ]
+			},
+			"properties" : {
+				"id" : "7168995",
+				"name" : "Warmelo",
+				"highway" : "residential",
+				"_node_number" : 157
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4336992, 51.4169415 ]
+			},
+			"properties" : {
+				"id" : "7168982",
+				"name" : "Radboud",
+				"highway" : "residential",
+				"_node_number" : 160
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4321751, 51.4157117 ]
+			},
+			"properties" : {
+				"id" : "7168910",
+				"name" : "Soetendaal",
+				"highway" : "residential",
+				"_node_number" : 161
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4362045, 51.4150504 ]
+			},
+			"properties" : {
+				"id" : "7168155",
+				"name" : "Oldengaarde",
+				"highway" : "tertiary",
+				"_node_number" : 163
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.435645, 51.4165322 ]
+			},
+			"properties" : {
+				"id" : "7168884",
+				"name" : "Enzerink",
+				"highway" : "residential",
+				"_node_number" : 164
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4417867, 51.4174781 ]
+			},
+			"properties" : {
+				"id" : "7168248",
+				"name" : "Ehrenstein",
+				"highway" : "tertiary",
+				"_node_number" : 167
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4389077, 51.4166528 ]
+			},
+			"properties" : {
+				"id" : "7168894",
+				"name" : "Duistervoorde",
+				"highway" : "residential",
+				"_node_number" : 171
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4334753, 51.4110409 ]
+			},
+			"properties" : {
+				"id" : "7168891",
+				"name" : "Herinkhave",
+				"highway" : "residential",
+				"_node_number" : 177
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.434897, 51.4168279 ]
+			},
+			"properties" : {
+				"id" : "7168963",
+				"name" : "Radboud",
+				"highway" : "residential",
+				"_node_number" : 179
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4326071, 51.4165653 ]
+			},
+			"properties" : {
+				"id" : "7168920",
+				"name" : "Elswout",
+				"highway" : "residential",
+				"_node_number" : 180
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.439093, 51.4161436 ]
+			},
+			"properties" : {
+				"id" : "7168875",
+				"name" : "Biljoen",
+				"highway" : "residential",
+				"_node_number" : 182
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4431524, 51.4169238 ]
+			},
+			"properties" : {
+				"id" : "7168181",
+				"name" : "Hartelstein",
+				"highway" : "residential",
+				"_node_number" : 183
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4445858, 51.4158414 ]
+			},
+			"properties" : {
+				"id" : "7168288",
+				"name" : "Hartelstein",
+				"highway" : "residential",
+				"_node_number" : 184
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4441505, 51.4157631 ]
+			},
+			"properties" : {
+				"id" : "7168225",
+				"name" : "Imstenrade",
+				"highway" : "residential",
+				"_node_number" : 185
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4338186, 51.411957 ]
+			},
+			"properties" : {
+				"id" : "115920814",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_node_number" : 187
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4446438, 51.4136242 ]
+			},
+			"properties" : {
+				"id" : "7168163",
+				"name" : "Allersma",
+				"highway" : "residential",
+				"_node_number" : 191
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4378705, 51.4168683 ]
+			},
+			"properties" : {
+				"id" : "7169001",
+				"name" : "Enzerink",
+				"highway" : "residential",
+				"_node_number" : 193
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4341181, 51.4151524 ]
+			},
+			"properties" : {
+				"id" : "7168968",
+				"name" : "Twickel",
+				"highway" : "residential",
+				"_node_number" : 197
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4449573, 51.4151581 ]
+			},
+			"properties" : {
+				"id" : "7168221",
+				"name" : "Lichtenberg",
+				"highway" : "tertiary",
+				"_node_number" : 202
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4450754, 51.4156751 ]
+			},
+			"properties" : {
+				"id" : "7168221",
+				"name" : "Lichtenberg",
+				"highway" : "tertiary",
+				"_node_number" : 204
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4363543, 51.4171306 ]
+			},
+			"properties" : {
+				"id" : "7169016",
+				"name" : "Magerhorst",
+				"highway" : "residential",
+				"_node_number" : 205
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4386613, 51.4135924 ]
+			},
+			"properties" : {
+				"id" : "298883006",
+				"name" : "Uniastate",
+				"highway" : "residential",
+				"_node_number" : 214
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.43708, 51.4151804 ]
+			},
+			"properties" : {
+				"id" : "7168155",
+				"name" : "Oldengaarde",
+				"highway" : "tertiary",
+				"_node_number" : 217
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4354365, 51.4154388 ]
+			},
+			"properties" : {
+				"id" : "7168929",
+				"name" : "Twickel",
+				"highway" : "residential",
+				"_node_number" : 218
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4414518, 51.4153051 ]
+			},
+			"properties" : {
+				"id" : "7168161",
+				"name" : "Keverberg",
+				"highway" : "tertiary",
+				"_node_number" : 219
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4345962, 51.4153195 ]
+			},
+			"properties" : {
+				"id" : "7168950",
+				"name" : "Twickel",
+				"highway" : "residential",
+				"_node_number" : 220
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4378354, 51.4141756 ]
+			},
+			"properties" : {
+				"id" : "7168870",
+				"name" : "Crackstate",
+				"highway" : "residential",
+				"_node_number" : 221
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4429563, 51.4155699 ]
+			},
+			"properties" : {
+				"id" : "7168256",
+				"name" : "Imstenrade",
+				"highway" : "residential",
+				"_node_number" : 222
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4316074, 51.4131366 ]
+			},
+			"properties" : {
+				"id" : "7168913",
+				"name" : "Warmelo",
+				"highway" : "residential",
+				"_node_number" : 223
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4314959, 51.4116851 ]
+			},
+			"properties" : {
+				"id" : "115920814",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_node_number" : 226
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4348781, 51.4103941 ]
+			},
+			"properties" : {
+				"id" : "687620237",
+				"name" : "Hunenborg",
+				"highway" : "residential",
+				"_node_number" : 228
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4367449, 51.4160414 ]
+			},
+			"properties" : {
+				"id" : "1115679193",
+				"name" : "Zijpendaal",
+				"highway" : "residential",
+				"_node_number" : 231
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4368666, 51.4110639 ]
+			},
+			"properties" : {
+				"id" : "7168951",
+				"name" : "Hunenborg",
+				"highway" : "residential",
+				"_node_number" : 232
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4401984, 51.4156435 ]
+			},
+			"properties" : {
+				"id" : "7168285",
+				"name" : "Oldengaarde",
+				"highway" : "tertiary",
+				"_node_number" : 234
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4361154, 51.411886 ]
+			},
+			"properties" : {
+				"id" : "86451434",
+				"name" : "Backenhagen",
+				"highway" : "residential",
+				"_node_number" : 236
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4465969, 51.4153219 ]
+			},
+			"properties" : {
+				"id" : "7168178",
+				"name" : "Ennemaborg",
+				"highway" : "residential",
+				"_node_number" : 238
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4339097, 51.4165693 ]
+			},
+			"properties" : {
+				"id" : "7168974",
+				"name" : "Radboud",
+				"highway" : "residential",
+				"_node_number" : 242
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4439204, 51.4150263 ]
+			},
+			"properties" : {
+				"id" : "7168249",
+				"name" : "Nederhoven",
+				"highway" : "residential",
+				"_node_number" : 248
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4444013, 51.4163608 ]
+			},
+			"properties" : {
+				"id" : "7168231",
+				"name" : "Geleenhof",
+				"highway" : "residential",
+				"_node_number" : 249
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4337721, 51.415647 ]
+			},
+			"properties" : {
+				"id" : "7168942",
+				"name" : "Vijverhoef",
+				"highway" : "residential",
+				"_node_number" : 253
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4375796, 51.4136927 ]
+			},
+			"properties" : {
+				"id" : "7168877",
+				"name" : "Uniastate",
+				"highway" : "residential",
+				"_node_number" : 254
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4400513, 51.4145047 ]
+			},
+			"properties" : {
+				"id" : "7168213",
+				"name" : "Schatzenburg",
+				"highway" : "residential",
+				"_node_number" : 256
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4400955, 51.4168263 ]
+			},
+			"properties" : {
+				"id" : "34286626",
+				"highway" : "cycleway",
+				"_node_number" : 257
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4453643, 51.4151242 ]
+			},
+			"properties" : {
+				"id" : "7168165",
+				"name" : "Ennemaborg",
+				"highway" : "residential",
+				"_node_number" : 260
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4391752, 51.414328 ]
+			},
+			"properties" : {
+				"id" : "7168986",
+				"name" : "Schatzenburg",
+				"highway" : "residential",
+				"_node_number" : 264
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.442421, 51.4142732 ]
+			},
+			"properties" : {
+				"id" : "7168161",
+				"name" : "Keverberg",
+				"highway" : "tertiary",
+				"_node_number" : 268
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.445589, 51.4146004 ]
+			},
+			"properties" : {
+				"id" : "7168295",
+				"name" : "Allersma",
+				"highway" : "residential",
+				"_node_number" : 276
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4433207, 51.4169491 ]
+			},
+			"properties" : {
+				"id" : "7168291",
+				"name" : "Hartelstein",
+				"highway" : "residential",
+				"_node_number" : 278
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4375131, 51.4137628 ]
+			},
+			"properties" : {
+				"id" : "7168994",
+				"name" : "Uniastate",
+				"highway" : "residential",
+				"_node_number" : 281
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4322408, 51.4155224 ]
+			},
+			"properties" : {
+				"id" : "7168952",
+				"name" : "Soetendaal",
+				"highway" : "residential",
+				"_node_number" : 282
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4415326, 51.4168953 ]
+			},
+			"properties" : {
+				"id" : "7168228",
+				"name" : "Keverberg",
+				"highway" : "tertiary",
+				"_node_number" : 283
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4404197, 51.4134678 ]
+			},
+			"properties" : {
+				"id" : "7168188",
+				"name" : "Jongemastate",
+				"highway" : "residential",
+				"_node_number" : 284
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.444212, 51.4168743 ]
+			},
+			"properties" : {
+				"id" : "7168258",
+				"name" : "Geleenhof",
+				"highway" : "residential",
+				"_node_number" : 285
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4428963, 51.4134702 ]
+			},
+			"properties" : {
+				"id" : "7168301",
+				"name" : "Allersma",
+				"highway" : "residential",
+				"_node_number" : 288
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4365482, 51.416666 ]
+			},
+			"properties" : {
+				"id" : "7168868",
+				"name" : "Enzerink",
+				"highway" : "residential",
+				"_node_number" : 289
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4356823, 51.4116316 ]
+			},
+			"properties" : {
+				"id" : "7168951",
+				"name" : "Hunenborg",
+				"highway" : "residential",
+				"_node_number" : 291
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4410478, 51.4157655 ]
+			},
+			"properties" : {
+				"id" : "7168227",
+				"name" : "Keverberg",
+				"highway" : "tertiary",
+				"_node_number" : 292
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4379631, 51.4168834 ]
+			},
+			"properties" : {
+				"id" : "7168983",
+				"name" : "Enzerink",
+				"highway" : "residential",
+				"_node_number" : 293
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4401829, 51.414168 ]
+			},
+			"properties" : {
+				"id" : "7168175",
+				"name" : "Jongemastate",
+				"highway" : "residential",
+				"_node_number" : 295
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4468084, 51.4141362 ]
+			},
+			"properties" : {
+				"id" : "7168168",
+				"name" : "Rusthoven",
+				"highway" : "residential",
+				"_node_number" : 296
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4410974, 51.4142971 ]
+			},
+			"properties" : {
+				"id" : "781665014",
+				"name" : "Jongemastate",
+				"highway" : "residential",
+				"_node_number" : 298
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4338298, 51.415042 ]
+			},
+			"properties" : {
+				"id" : "7168895",
+				"name" : "Twickel",
+				"highway" : "residential",
+				"_node_number" : 299
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.438116, 51.4153343 ]
+			},
+			"properties" : {
+				"id" : "7168155",
+				"name" : "Oldengaarde",
+				"highway" : "tertiary",
+				"_node_number" : 301
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.44672, 51.4149929 ]
+			},
+			"properties" : {
+				"id" : "7168294",
+				"name" : "Ennemaborg",
+				"highway" : "residential",
+				"_node_number" : 306
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4336224, 51.4155061 ]
+			},
+			"properties" : {
+				"id" : "7168921",
+				"name" : "Vijverhoef",
+				"highway" : "residential",
+				"_node_number" : 307
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.431033, 51.411632 ]
+			},
+			"properties" : {
+				"id" : "7169033",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_node_number" : 310
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4438609, 51.4135047 ]
+			},
+			"properties" : {
+				"id" : "7168160",
+				"name" : "Allersma",
+				"highway" : "residential",
+				"_node_number" : 312
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4446894, 51.4179173 ]
+			},
+			"properties" : {
+				"id" : "7168563",
+				"name" : "Ehrenstein",
+				"highway" : "tertiary",
+				"_node_number" : 315
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4394637, 51.414817 ]
+			},
+			"properties" : {
+				"id" : "7168909",
+				"name" : "Schatzenburg",
+				"highway" : "residential",
+				"_node_number" : 317
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4404161, 51.415125 ]
+			},
+			"properties" : {
+				"id" : "7168281",
+				"name" : "Dikninge",
+				"highway" : "cycleway",
+				"_node_number" : 318
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4361307, 51.4133234 ]
+			},
+			"properties" : {
+				"id" : "298594750",
+				"name" : "Ulenpas",
+				"highway" : "residential",
+				"_node_number" : 319
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4401025, 51.413805 ]
+			},
+			"properties" : {
+				"id" : "7168269",
+				"name" : "Jongemastate",
+				"highway" : "residential",
+				"_node_number" : 323
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4363037, 51.4121862 ]
+			},
+			"properties" : {
+				"id" : "86451437",
+				"name" : "Backenhagen",
+				"highway" : "residential",
+				"_node_number" : 325
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4368821, 51.4114957 ]
+			},
+			"properties" : {
+				"id" : "86451434",
+				"name" : "Backenhagen",
+				"highway" : "residential",
+				"_node_number" : 326
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4316935, 51.4127396 ]
+			},
+			"properties" : {
+				"id" : "7169017",
+				"name" : "Twickel",
+				"highway" : "residential",
+				"_node_number" : 327
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4435046, 51.4144072 ]
+			},
+			"properties" : {
+				"id" : "7168221",
+				"name" : "Lichtenberg",
+				"highway" : "tertiary",
+				"_node_number" : 328
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4360293, 51.4155145 ]
+			},
+			"properties" : {
+				"id" : "79827193",
+				"name" : "Ulenpas",
+				"highway" : "tertiary",
+				"_node_number" : 332
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4377849, 51.4143102 ]
+			},
+			"properties" : {
+				"id" : "7168958",
+				"name" : "Crackstate",
+				"highway" : "residential",
+				"_node_number" : 334
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4420818, 51.4145827 ]
+			},
+			"properties" : {
+				"id" : "7168161",
+				"name" : "Keverberg",
+				"highway" : "tertiary",
+				"_node_number" : 336
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4396109, 51.4144405 ]
+			},
+			"properties" : {
+				"id" : "7168154",
+				"name" : "Schatzenburg",
+				"highway" : "residential",
+				"_node_number" : 337
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.442985, 51.4129973 ]
+			},
+			"properties" : {
+				"id" : "7168183",
+				"highway" : "residential",
+				"_node_number" : 338
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4456665, 51.4143994 ]
+			},
+			"properties" : {
+				"id" : "7168201",
+				"name" : "Allersma",
+				"highway" : "residential",
+				"_node_number" : 342
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4383082, 51.4148179 ]
+			},
+			"properties" : {
+				"id" : "146106723",
+				"name" : "Dikninge",
+				"highway" : "cycleway",
+				"_node_number" : 349
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.435284, 51.4113314 ]
+			},
+			"properties" : {
+				"id" : "7168944",
+				"name" : "Hunenborg",
+				"highway" : "residential",
+				"_node_number" : 351
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4463816, 51.415291 ]
+			},
+			"properties" : {
+				"id" : "7168178",
+				"name" : "Ennemaborg",
+				"highway" : "residential",
+				"_node_number" : 352
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.433617, 51.4160944 ]
+			},
+			"properties" : {
+				"id" : "7169012",
+				"name" : "Rooswijck",
+				"highway" : "residential",
+				"_node_number" : 353
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4428779, 51.4176432 ]
+			},
+			"properties" : {
+				"id" : "7168563",
+				"name" : "Ehrenstein",
+				"highway" : "tertiary",
+				"_node_number" : 359
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4329582, 51.4155218 ]
+			},
+			"properties" : {
+				"id" : "7168962",
+				"name" : "Vijverhoef",
+				"highway" : "residential",
+				"_node_number" : 361
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4387607, 51.416975 ]
+			},
+			"properties" : {
+				"id" : "7168983",
+				"name" : "Enzerink",
+				"highway" : "residential",
+				"_node_number" : 365
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4403213, 51.4162792 ]
+			},
+			"properties" : {
+				"id" : "7168230",
+				"name" : "Biljoen",
+				"highway" : "cycleway",
+				"_node_number" : 372
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4408102, 51.4139124 ]
+			},
+			"properties" : {
+				"id" : "7168166",
+				"name" : "Jongemastate",
+				"highway" : "residential",
+				"_node_number" : 375
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4364261, 51.4136098 ]
+			},
+			"properties" : {
+				"id" : "7168994",
+				"name" : "Uniastate",
+				"highway" : "residential",
+				"_node_number" : 378
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4395504, 51.4145954 ]
+			},
+			"properties" : {
+				"id" : "7168213",
+				"name" : "Schatzenburg",
+				"highway" : "residential",
+				"_node_number" : 379
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4430431, 51.4133871 ]
+			},
+			"properties" : {
+				"id" : "7168267",
+				"name" : "Allersma",
+				"highway" : "residential",
+				"_node_number" : 381
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.4436255, 51.4140862 ]
+			},
+			"properties" : {
+				"id" : "7168212",
+				"name" : "Lichtenberg",
+				"highway" : "residential",
+				"_node_number" : 382
+			}
+		}
+	]
+}
