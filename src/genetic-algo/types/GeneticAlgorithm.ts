@@ -1,10 +1,11 @@
-export type Chromosome<Gene> = Gene[];
-export type Population<Gene> = Chromosome<Gene>[];
+import Chromosome from "./Chromosome";
+import PRNG from "./PRNG";
 
 type GeneticAlgorithm<Input, Gene> = {
-  createInitialPopulation: (input: Input) => Population<Gene>;
+  createChromosome: (input: Input, prng: PRNG) => Chromosome<Gene>;
   calculateFitness: (input: Input, chromosome: Chromosome<Gene>) => number;
-  mutate: (gene: Gene) => Gene;
+  mutate: (gene: Gene, prng: PRNG) => Gene;
+  getId: (gene: Gene) => number;
 };
 
 export default GeneticAlgorithm;
